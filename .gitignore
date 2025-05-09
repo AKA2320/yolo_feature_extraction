@@ -1,0 +1,15 @@
+*.zip
+
+cvat/
+cvat/**
+**/cvat
+model_training/
+/model_training
+.DS_Store
+/cvat
+/runs
+/train
+/sample_data
+/yolo_annots
+yolo11n.pt
+yolo11s.pt
